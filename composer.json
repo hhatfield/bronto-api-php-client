@@ -8,7 +8,7 @@
     ],
     "require": {
         "symfony/class-loader": "v2.3.5",
-        "symfony/console-loader": "v2.3.5",
+        "symfony/console-loader": "v2.3.5"
     },
     "autoload": {
         "classmap": [ "src/" ]
