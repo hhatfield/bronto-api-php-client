@@ -1,0 +1,16 @@
+{
+    "name": "hhatfield/bronto-api-php-client",
+    "type": "project",
+    "description": "Bronto Api PHP Clien",
+    "keywords": [
+        "Bronto API",
+        "PHP"
+    ],
+    "require": {
+        "symfony/class-loader": "v2.3.5",
+        "symfony/console-loader": "v2.3.5",
+    },
+    "autoload": {
+        "classmap": [ "src/" ]
+    }
+}
